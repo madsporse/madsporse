@@ -7,4 +7,8 @@
 - 📙 I like reading and learning about ML and AI technologies, and how they can be applied in practice to solve various tasks
 - 👔 I like working on ML-related projects in my spare time - [click here to see what I'm currently working on](https://github.com/Mporse/customer-churn-app)
 
-## Skills and Competences
+## Skills and Tools I Use
+<h3 style="text-align: center;"> 🛠 Programming and Scripting</h3>
+<p style="text-align: center;">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</p>
