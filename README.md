@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/Mporse/Mporse/blob/master/gif_images/wave.gif" width="30px"> I'm Mads!
 
 <!--
 **Mporse/Mporse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
