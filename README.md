@@ -49,7 +49,8 @@
 </p>
 <h3 align="center"> 🛠 Web Services </h3>
 <p align="center">
-    <img alt="AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+    <img alt="AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=orange"/>&nbsp;
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 <h3 align="center"> 🛠 CI/CD </h3>
 <p align="center">
