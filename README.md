@@ -19,14 +19,12 @@
 <p align="center">
     <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
-    <img alt="SciKitLearn" src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-    <br>
     <img alt="JupyterNotebooks" src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;
+    <img alt="Plotly" src="https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <br>
+    <img alt="SciKitLearn" src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
     <img alt="Keras" src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>&nbsp;
     <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-<p align="center">
-    
 </p>
 <h3 align="center"> 🛠 Databases and Storage Solutions </h3>
 <p align="center">
@@ -46,7 +44,7 @@
     <img alt="Shiny" src="https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>&nbsp;
     <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>&nbsp;
     <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 <h3 align="center"> 🛠 Web Services </h3>
 <p align="center">
@@ -55,17 +53,6 @@
 </p>
 <h3 align="center"> 🛠 CI/CD </h3>
 <p align="center">
-    <img alt="GitHubActions" src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-<h3 align="center"> 🛠 Operating Systems </h3>
-<p align="center">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
-    <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-%2335BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>&nbsp;
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
-</p>
-<h3 align="center"> 🛠 IDEs </h3>
-<p align="center">
-    <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;
-    <img alt="Spyder" src="https://img.shields.io/badge/spyder-%23838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>&nbsp;
+    <img alt="GitHubActions" src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp;
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
