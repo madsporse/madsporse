@@ -4,8 +4,7 @@
 - 👷‍♂️ I'm a data analyst / data scientist, with a Master's degree in Bioinformatics from the University of Copenhagen, Denmark
 - 💪 I have years of data analysis and programming experience in Python and R
 - 🏭 I have collaborated with multiple companies and research units in different projects
-- 📙 I like reading and learning about ML and AI technologies, and how they can be applied in practice to solve various tasks
-- 👔 I like working on ML-related projects in my spare time - [click here to see what I'm currently working on](https://github.com/Mporse/customer-churn-app)
+- 📙 I like learning about and working with web dev, ML and AI technologies, and how they can be applied in practice to solve various tasks
 - 📄 You can find some of the more notable projects I've worked on in the pinned section below
 
 ## My Skills and Tools I Use
