@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/Mporse/Mporse/master/gif_images/wave.gif" width="30px">
 
 ## About Me
-- 👷‍♂️ I'm a data analyst / data scientist, with a Master's degree in Bioinformatics from the University of Copenhagen, Denmark
+- 👷‍♂️ I'm a data analyst / data scientist, with a Master's degree in Bioinformatics
 - 💪 I have years of data analysis and programming experience in Python and R
 - 🏭 I have collaborated with multiple companies and research units in different projects
 - 📙 I like learning about and working with web dev, ML and AI technologies, and how they can be applied in practice to solve various tasks
