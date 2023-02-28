@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/Mporse/Mporse/master/gif_images/wave.gif" width="30px"> I'm Mads!
+# Hi there <img src="https://raw.githubusercontent.com/Mporse/Mporse/master/gif_images/wave.gif" width="30px">
 
 ## About Me
 - 👷‍♂️ I'm a data analyst / data scientist, with a Master's degree in Bioinformatics from the University of Copenhagen, Denmark
