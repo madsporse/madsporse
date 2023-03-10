@@ -42,7 +42,7 @@
 <p align="center">
     <img alt="Shiny" src="https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>&nbsp;
     <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>&nbsp;
-    <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
     <img alt="HTML5" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 <h3 align="center"> 🛠 Web Services </h3>
