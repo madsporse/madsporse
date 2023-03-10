@@ -29,7 +29,8 @@
 <p align="center">
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;
-    <img alt="S3" src="https://img.shields.io/badge/amazon_s3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white"/>
+    <img alt="AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=orange"/>&nbsp;
+    <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 <h3 align="center"> 🛠 Version Control and Documentation </h3>
 <p align="center">
@@ -48,7 +49,7 @@
 <h3 align="center"> 🛠 Web Services </h3>
 <p align="center">
     <img alt="AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=orange"/>&nbsp;
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 <h3 align="center"> 🛠 CI/CD </h3>
 <p align="center">
